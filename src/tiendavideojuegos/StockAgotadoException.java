@@ -1,4 +1,4 @@
-package tiendavideojuegos;
+package tiendavideojuegos; // v1.0.0
 
 /**
  * Excepción que se usa cuando no hay stock suficiente.
