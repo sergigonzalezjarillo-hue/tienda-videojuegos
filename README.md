@@ -40,9 +40,9 @@ java -cp bin tiendavideojuegos.Main
 
 ## 📚 Documentación Javadoc
 
-👉 [Ver Javadoc](https://TU_USUARIO.github.io/tienda-videojuegos/)
+👉 [Ver Javadoc](https://sergigonzalezjarillo-hue.github.io/tienda-videojuegos/)
 
-*(Cambia TU_USUARIO por tu usuario de GitHub)*
+*(Cambia sergigonzalezjarillo-hue por tu usuario de GitHub)*
 
 ---
 
