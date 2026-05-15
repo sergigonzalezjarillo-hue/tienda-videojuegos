@@ -1,4 +1,4 @@
-package tiendavideojuegos;
+package tiendavideojuegos; // v1.0.0
 
 /**
  * Clase que representa una consola dentro de la tienda.
