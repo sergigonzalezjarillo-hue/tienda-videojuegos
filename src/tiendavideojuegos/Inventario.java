@@ -1,4 +1,4 @@
-package tiendavideojuegos;
+package tiendavideojuegos; // v1.0.0
 
 import java.util.ArrayList;
 import java.util.List;
