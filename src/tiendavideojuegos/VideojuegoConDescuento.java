@@ -1,4 +1,4 @@
-package tiendavideojuegos;
+package tiendavideojuegos; // v1.0.0
 
 /**
  * Videojuego al que se le aplica un descuento sobre el precio original.
