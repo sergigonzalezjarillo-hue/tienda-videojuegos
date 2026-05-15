@@ -1,4 +1,4 @@
-package tiendavideojuegos;
+package tiendavideojuegos; // v1.0.0
 
 /**
  * Interfaz para los artículos que pueden venderse.
