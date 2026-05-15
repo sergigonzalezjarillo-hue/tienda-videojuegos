@@ -88,6 +88,6 @@ public class Videojuego extends Item implements Vendible {
      */
     @Override
     public double calcularPrecioFinal() {
-        return this.precio;
+        return this.precio * 1.10;
     }
 }
